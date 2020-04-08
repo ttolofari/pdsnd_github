@@ -5,7 +5,7 @@ April 08, 2020
 Udacity PDSND Github Project
 
 ### Description
-Describe what your project is about and what it does
+In this project, python was used to understand U.S. bikeshare data. Statistics was calculated and an interactive environment where a user chooses the data and filter for a dataset to analyze was built.
 
 ### Files used
 Include the files used
