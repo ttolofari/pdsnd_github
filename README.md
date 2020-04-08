@@ -14,5 +14,4 @@ _washington.csv_
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This project was created as part of Udacity's Programming for Data Science Nanodegree. Checkout the [course](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
