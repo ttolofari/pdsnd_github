@@ -561,15 +561,15 @@
     "\n",
     "\n",
     "# Printing all values to the screen\n",
-    "print('Total Number of Trips by City:', num_trips)\n",
+    "print('Total Number of Trips by City: {}' .format(num_trips))\n",
     "print('City with the highest trip is {} with {} Trips'.format(max_num_trips, num_trips[max_num_trips]))\n",
     "\n",
     "\n",
-    "print('Subscriber ratio by City:', subs_ratio)\n",
+    "print('Subscriber ratio by City: {}' .format(subs_ratio))\n",
     "print('City with the subscriber ratio is {} with {}'.format(max_subs_ratio, subs_ratio[max_subs_ratio]))\n",
     "\n",
     "\n",
-    "print('Customer ratio by City:', cust_ratio)\n",
+    "print('Customer ratio by City:{}' .format(cust_ratio))\n",
     "print('City with the customer ratio is {} with {}'.format(max_cust_ratio, cust_ratio[max_cust_ratio]))\n"
    ]
   },
