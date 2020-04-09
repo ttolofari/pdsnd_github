@@ -727,8 +727,8 @@
     "                cust_trip_length += float(row['duration'])\n",
     "                \n",
     "            # Calculating the average trip length for the different user types.    \n",
-    "        avg_sub_trip = round((subs_trip_length)/(n_subscribers),1)\n",
-    "        avg_cust_trip = round((cust_trip_length)/(n_customers),1)\n",
+    "        avg_sub_trip = round((subs_trip_length)/(n_subscribers),2)\n",
+    "        avg_cust_trip = round((cust_trip_length)/(n_customers),2)\n",
     "                      \n",
     "        return (avg_sub_trip, avg_cust_trip, n_subscribers, subs_trip_length, n_customers, cust_trip_length)\n",
     "            # Returning all calculated values"
