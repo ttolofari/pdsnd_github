@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+April 08, 2020
 
 ### Project Title
-Replace the Project Title
+Udacity PDSND Github Project
 
 ### Description
-Describe what your project is about and what it does
+In this project, python was used to understand U.S. bikeshare data. Statistics was calculated and an interactive environment where a user chooses the data and filter for a dataset to analyze was built.
 
 ### Files used
-Include the files used
+_chicago.csv_,
+_new_york_city.csv_, and 
+_washington.csv_
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This project was created as part of Udacity's Programming for Data Science Nanodegree. Checkout the [course](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
